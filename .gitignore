@@ -1,0 +1,8 @@
+.idea
+.installed.cfg
+eggs
+develop-eggs
+playlistripper.egg-info
+bin
+parts
+__pycache__
